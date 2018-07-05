@@ -1,5 +1,5 @@
 # Find location on Google Maps
-Find a location on google maps and generates a mag image with a pin.
+Find a location on google maps and generates an image with a pin for e.g. sharing
 
 ## Required
 * [Google Map API Key](https://developers.google.com/maps/documentation/geocoding/get-api-key#standard-auth)
