@@ -1,5 +1,5 @@
-# Find location on Google Maps
-Find a location on google maps and generates an image with a pin for e.g. sharing
+# Find a location on Google Maps
+This workflow generates a Google Map image of a location (e.g.country, address or city). The location will be shown as pin marker. The image can then be used for e.g. sharing with others.
 
 ## Required
 * [Google Map API Key](https://developers.google.com/maps/documentation/geocoding/get-api-key#standard-auth)
